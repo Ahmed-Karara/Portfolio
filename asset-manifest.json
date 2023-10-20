@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.af997f02.css",
-    "main.js": "/Portfolio/static/js/main.df137c54.js",
+    "main.js": "/Portfolio/static/js/main.aa4b6403.js",
     "static/media/ShopFaster.jpg": "/Portfolio/static/media/ShopFaster.0abb85b9c9c8498dcaf0.jpg",
     "static/media/Rocker-Furniture.jpg": "/Portfolio/static/media/Rocker-Furniture.e1d8a6f09e535dcbf244.jpg",
     "static/media/Admin-Dashboard.png": "/Portfolio/static/media/Admin-Dashboard.faa9bbbf4b97bb8decde.png",
@@ -18,10 +18,10 @@
     "static/media/jquery.png": "/Portfolio/static/media/jquery.59c0d4d26fb6326be9c3.png",
     "index.html": "/Portfolio/index.html",
     "main.af997f02.css.map": "/Portfolio/static/css/main.af997f02.css.map",
-    "main.df137c54.js.map": "/Portfolio/static/js/main.df137c54.js.map"
+    "main.aa4b6403.js.map": "/Portfolio/static/js/main.aa4b6403.js.map"
   },
   "entrypoints": [
     "static/css/main.af997f02.css",
-    "static/js/main.df137c54.js"
+    "static/js/main.aa4b6403.js"
   ]
 }
