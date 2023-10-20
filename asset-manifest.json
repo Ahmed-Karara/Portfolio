@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.af997f02.css",
+    "main.js": "/Portfolio/static/js/main.df137c54.js",
+    "static/media/ShopFaster.jpg": "/Portfolio/static/media/ShopFaster.0abb85b9c9c8498dcaf0.jpg",
+    "static/media/Rocker-Furniture.jpg": "/Portfolio/static/media/Rocker-Furniture.e1d8a6f09e535dcbf244.jpg",
+    "static/media/Admin-Dashboard.png": "/Portfolio/static/media/Admin-Dashboard.faa9bbbf4b97bb8decde.png",
+    "static/media/React.png": "/Portfolio/static/media/React.8a6fc0a24a800d1e0f4a.png",
+    "static/media/weather-app.jpg": "/Portfolio/static/media/weather-app.91025590c9d38e92bcd5.jpg",
+    "static/media/Ahmed-Karara-CV.pdf": "/Portfolio/static/media/Ahmed-Karara-CV.19d4288b1f06031da4cc.pdf",
+    "static/media/tic-tac-toe.jpg": "/Portfolio/static/media/tic-tac-toe.d687cfaa06947251cf03.jpg",
+    "static/media/HTML5.png": "/Portfolio/static/media/HTML5.323dab0ccafeb98fae45.png",
+    "static/media/Tailwind.png": "/Portfolio/static/media/Tailwind.428b673bbb9af03ba6bb.png",
+    "static/media/CRUDS.png": "/Portfolio/static/media/CRUDS.b809091c60ae0f49b753.png",
+    "static/media/CSS3.png": "/Portfolio/static/media/CSS3.58dfbebae4a02001b50e.png",
+    "static/media/redux.png": "/Portfolio/static/media/redux.7ea723c9435ca6efc295.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.6d723cf02d5a12b34547.png",
+    "static/media/jquery.png": "/Portfolio/static/media/jquery.59c0d4d26fb6326be9c3.png",
+    "index.html": "/Portfolio/index.html",
+    "main.af997f02.css.map": "/Portfolio/static/css/main.af997f02.css.map",
+    "main.df137c54.js.map": "/Portfolio/static/js/main.df137c54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af997f02.css",
+    "static/js/main.df137c54.js"
+  ]
+}
