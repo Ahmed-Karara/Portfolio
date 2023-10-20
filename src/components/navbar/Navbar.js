@@ -227,9 +227,7 @@ const Navbar = ({ darkMode, setDarkMode }) => {
           </li>
           <li>
             <a
-              href="https://Ahmed-Karara@outlook.com"
-              target="_blank"
-              rel="noreferrer"
+              href="mailto:Ahmed-Karara@outlook.com"
               className="flex justify-between items-center bg-green-500 p-1.5 w-[140px] ml-[-100px] hover:ml-0 duration-500"
             >
               <span>Email</span>
