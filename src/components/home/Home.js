@@ -1,7 +1,7 @@
 import React from "react";
 import { HiArrowNarrowDown } from "react-icons/hi";
 import { Link } from "react-scroll";
-import CV from "../../assets/Ahmed-Karara-CV.pdf";
+import CV from "../../assets/Ahmed Karara CV.pdf";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 

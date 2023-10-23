@@ -4,7 +4,7 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { MdNightsStay, MdWbSunny } from "react-icons/md";
 import { Link } from "react-scroll";
-import CV from "../../assets/Ahmed-Karara-CV.pdf";
+import CV from "../../assets/Ahmed Karara CV.pdf";
 
 const Navbar = ({ darkMode, setDarkMode }) => {
   const [nav, setNav] = useState(false);
